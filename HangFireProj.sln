@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFireProj", "HangFireProj.csproj", "{8E0CCCE3-3486-4782-9DE6-6EC10BCE8D2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangFireProj", "HangFireProj.csproj", "{8E0CCCE3-3486-4782-9DE6-6EC10BCE8D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireInMemoryPrj", "..\HangfireInMemoryPrj\HangfireInMemoryPrj.csproj", "{F57EEDED-C5BB-4783-AF80-BDC873DA2D0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8E0CCCE3-3486-4782-9DE6-6EC10BCE8D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0CCCE3-3486-4782-9DE6-6EC10BCE8D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0CCCE3-3486-4782-9DE6-6EC10BCE8D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57EEDED-C5BB-4783-AF80-BDC873DA2D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57EEDED-C5BB-4783-AF80-BDC873DA2D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57EEDED-C5BB-4783-AF80-BDC873DA2D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57EEDED-C5BB-4783-AF80-BDC873DA2D0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
